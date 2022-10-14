@@ -22,7 +22,7 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['+5511940098181,19099999899]
+global.owner = ['5511940098181','19099999899']
 global.premium = ['60177426853']
 global.packname = 'INFERNO'
 global.author = 'hellboy'
